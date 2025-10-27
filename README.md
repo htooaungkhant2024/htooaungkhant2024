@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Htoo Aung Khant
-- 👀 I’m interested in Cyber Security, Pentesting & Web Development.
+- 👀 I’m interested in Cyber Security, Pentesting & Data/IT analyst.
 - 🌱 Computer Information System Graduated at BCIT.
 - 💞️ I’m looking to collaborate on the field of IT can lead to innovative solutions and shared learing experiences.
 - 📫 cisa.htooaungkhant7@outlook.com
